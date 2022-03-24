@@ -1,4 +1,4 @@
-## Hi All, and Welcome! I'm Tom Wilson, MBA, A.K.A. "VikingOfValhalla".
+## Hi All, and Welcome! I'm Tom Wilson, MBA | A.K.A. "VikingOfValhalla".
 #### Full Stack Developer, Ubuntu Enthusiast, Supply Chain Professional, and Philomath for Technology
 I believe that knowledge is a never ending resource, and I fully support the open source community.
 
