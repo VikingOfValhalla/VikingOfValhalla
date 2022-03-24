@@ -1,5 +1,5 @@
-## Hi All, and Welcome!
-# I'm Tom, A.K.A. "VikingOfValhalla".
+## Hi All, and Welcome! I'm Tom Wilson, MBA, A.K.A. "VikingOfValhalla".
+### Full Stack Developer, Ubuntu Enthusiast, Supply Chain Professional, and Philomath for Technology
 <!--
 **VikingOfValhalla/VikingOfValhalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
