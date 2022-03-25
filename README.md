@@ -5,6 +5,6 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 
 ## Code Whisperer For:
 - Python <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1349-python.png" alt="Your image title" width="30"/>
-- C++ <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/thinkcpp.png" alt="Your image title" width="30"/>
+- C++ <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/thinkcpp.png" alt="Your image title" width="25"/>
 - JavaScript
 
