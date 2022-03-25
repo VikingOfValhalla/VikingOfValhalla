@@ -4,7 +4,7 @@
 I believe that knowledge is a never ending resource, and I fully support the open source community.
 
 ## Code Whisperer For:
-- Python ![](https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1349-python.png | width=25)
+- Python ![](https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1349-python.png | width=25px)
 - C++
 - JavaScript
 
