@@ -4,7 +4,7 @@
 I believe that knowledge is a never ending resource, and I fully support the open source community.
 
 ## Code Whisperer For:
-<img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1349-python.png" alt="Your image title" width="35"/> Python 
-<img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/thinkcpp.png" alt="Your image title" width="25"/>  C++
-<img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/8009-java-js.png" alt="Your image title" width="25"/>  JavaScript
+<img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1349-python.png" alt="Your image title" width="35"/> Python <br>
+<img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/thinkcpp.png" alt="Your image title" width="25"/>  C++ <br>
+<img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/8009-java-js.png" alt="Your image title" width="25"/>  JavaScript <br>
 
