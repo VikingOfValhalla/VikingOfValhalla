@@ -21,7 +21,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/cpp.svg" alt="C++" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/javascript.svg" alt="javascript" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/typescript.svg" alt="typescript" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/python.svg" alt="python" width="80"/></td>
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/python3.svg" alt="python" width="80"/></td>
 <td></td>
 </tr>
 <tr>  
