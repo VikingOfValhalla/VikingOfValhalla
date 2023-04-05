@@ -12,14 +12,17 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td>REPO / HOSTING</td>  
 <td>GitHub</td>  
 <td>Ubuntu</td>
-<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td> 
+<td></td>
+<td></td> 
 </tr>
 <tr>  
 <td>PROGRAMMING</td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/thinkcpp.png" alt="Your image title" width="45"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/8009-java-js.png" alt="Your image title" width="35"/></td>
 <td>TYPESCRIPT</td>
-<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1887_python.png" alt="Your image title" width="35"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1887_python.png" alt="Your image title" width="35"/></td>
+<td></td>
 </tr>
 <tr>  
 <td>FRONT-END</td>  
@@ -34,12 +37,16 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nodejs.svg" alt="nodejs" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/express.svg" alt="expressjs" width="50"/></td>
 <td>NextJS</td>  
+<td></td>
+<td></td>
 </tr>
 <tr>  
 <td>DATABASE</td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/mysql.svg" alt="mysql" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/postgresql.svg" alt="postgresql" width="50"/></td>
 <td>Prisma</td>  
+<td></td>
+<td></td>
 </tr>
 </table>
 </p>
