@@ -34,9 +34,10 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 </tr>
 <tr>  
 <td>PROGRAMMING</td>  
-<td>GitHub</td>  
-<td>Ubuntu</td>
-<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/thinkcpp.png" alt="Your image title" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/8009-java-js.png" alt="Your image title" width="50"/></td>
+<td>TYPESCRIPT</td>
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/1887_python.png" alt="Your image title" width="50"/></td>  
 </tr>
 <tr>  
 <td>FRONT-END</td>  
