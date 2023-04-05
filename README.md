@@ -8,7 +8,24 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 
 ## Tech Stack
 
-<p align="center">
+
+<foreignObject width="100%" height="100%">
+
+<style>
+table,
+table td {
+  border: 1px solid #cccccc;
+}
+
+td {
+  height: 80px;
+  width: 160px;
+  text-align: center;
+  vertical-align: middle;
+}
+</style>
+
+
 <table>
 <tr>  
 <td>REPO / HOSTING</td>  
@@ -51,5 +68,4 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td></td>
 </tr>
 </table>
-</p>
-
+</foreignObject>
