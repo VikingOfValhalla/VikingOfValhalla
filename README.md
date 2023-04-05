@@ -29,7 +29,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/html.svg" alt="html5" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/css.svg" alt="css" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/react.svg" alt="react" width="50"/></td>
-<td>FLASK</td> 
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td> 
 <td>MUI</td> 
 </tr>
 <tr>  
