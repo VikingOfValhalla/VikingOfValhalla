@@ -32,4 +32,30 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td>Ubuntu</td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td>  
 </tr>
+<tr>  
+<td>PROGRAMMING</td>  
+<td>GitHub</td>  
+<td>Ubuntu</td>
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td>  
+</tr>
+<tr>  
+<td>FRONT-END</td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/html.svg" alt="html5" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/css.svg" alt="css" width="50"/></td>
+<td>REACT</td>
+<td>FLASK</td> 
+<td>MUI</td> 
+</tr>
+<tr>  
+<td>BACK-END</td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nodejs.svg" alt="nodejs" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/express.svg" alt="expressjs" width="50"/></td>
+<td>NextJS</td>  
+</tr>
+<tr>  
+<td>DATABASE</td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/mysql.svg" alt="mysql" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/postgresql.svg" alt="postgresql" width="50"/></td>
+<td>Prisma</td>  
+</tr>
 </table>
