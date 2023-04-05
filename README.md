@@ -1,3 +1,5 @@
+<link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
 ## Welcome! I'm Tom | A.K.A. "VikingOfValhalla".
 
 ![](<https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/banner-gaa30b56aa_1280%20(1).jpg>)
