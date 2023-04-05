@@ -22,3 +22,14 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 | BACK-END       | <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nodejs.svg" alt="nodejs" width="50"/> | <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/express.svg" alt="expressjs" width="50"/> | NEXTJS                                                                                                                           |            |     |
 | DATABASE       | <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/mysql.svg" alt="mysql" width="50"/>   | Prisma                                                                                                                       | <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/postgresql.svg" alt="postgresql" width="50"/> |            |     |     |
 |                |                                                                                                                          |                                                                                                                              |                                                                                                                                  |            |     |
+
+## Tech Stacks New
+
+<table>
+<tr>  
+<td>REPO / HOSTING</td>  
+<td>GitHub</td>  
+<td>Ubuntu</td>
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td>  
+</tr>
+</table>
