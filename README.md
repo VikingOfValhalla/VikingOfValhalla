@@ -10,7 +10,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <table>
 <tr>  
 <td>REPO / HOSTING</td>  
-<td>GitHub</td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/github.svg" alt="github" width="50"/></td>  
 <td>Ubuntu</td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td> 
 <td></td>
