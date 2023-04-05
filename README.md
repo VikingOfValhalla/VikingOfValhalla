@@ -14,7 +14,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 
 ## Tech Stacks
 
-|                |                                                                                                                          |                                                                                                                              |                                                                                                                                  |            |     |
+| | | | | | | |
 | -- | -- | -- | -- | -- | -- | -- |
 | REPO / HOSTING | GitHub                                                                                                                   | Ubuntu                                                                                                                       | <img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="30"/>               |            |     |
 | PROGRAMMING    | C++                                                                                                                      | PYTHON                                                                                                                       | TYPESCRIPT                                                                                                                       | Vanilla JS |     |
