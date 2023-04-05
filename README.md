@@ -2,7 +2,7 @@
 
 ## Welcome! I'm Tom | A.K.A. "VikingOfValhalla".
 
-![](<https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/banner-gaa30b56aa_1280%20(1).jpg>)
+![](<https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/api2.gif>)
 Software Engineer, Ubuntu Enthusiast, Supply Chain Professional, and Philomath for Technology. <br>
 I believe that knowledge is a never ending resource, and I fully support the open source community.
 
@@ -53,4 +53,3 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 </table>
 </p>
 
-![](<https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/api.gif>)
