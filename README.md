@@ -30,13 +30,13 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/css.svg" alt="css" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/react.svg" alt="react" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td> 
-<td>MUI</td> 
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/mui.svg" alt="material ui" width="50"/></td> 
 </tr>
 <tr>  
 <td>BACK-END</td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nodejs.svg" alt="nodejs" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/express.svg" alt="expressjs" width="50"/></td>
-<td>NextJS</td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nextjs.svg" alt="nextjs" width="50"/></td>  
 <td></td>
 <td></td>
 </tr>
@@ -44,7 +44,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td>DATABASE</td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/mysql.svg" alt="mysql" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/postgresql.svg" alt="postgresql" width="50"/></td>
-<td>Prisma</td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/prisma.svg" alt="prisma (ORM)" width="50"/></td>  
 <td></td>
 <td></td>
 </tr>
