@@ -37,8 +37,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nodejs.svg" alt="nodejs" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/express.svg" alt="expressjs" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nextjs.svg" alt="nextjs" width="50"/></td>  
-<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td> 
-<td></td>
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td>
 
 </tr>
 <tr>  
