@@ -2,7 +2,7 @@
 
 ## Welcome! I'm Tom | A.K.A. "VikingOfValhalla".
 
-![](<https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/api2.gif>)
+![](https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/api2.gif)
 Software Engineer, Ubuntu Enthusiast, Supply Chain Professional, and Philomath for Technology. <br>
 I believe that knowledge is a never ending resource, and I fully support the open source community.
 
@@ -30,7 +30,6 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/html.svg" alt="html5" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/css.svg" alt="css" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/react.svg" alt="react" width="50"/></td>
-<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td> 
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/mui.svg" alt="material ui" width="50"/></td> 
 </tr>
 <tr>  
@@ -38,6 +37,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nodejs.svg" alt="nodejs" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/express.svg" alt="expressjs" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nextjs.svg" alt="nextjs" width="50"/></td>  
+<td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td> 
 <td></td>
 <td></td>
 </tr>
@@ -50,5 +50,3 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td></td>
 </tr>
 </table>
-
-
