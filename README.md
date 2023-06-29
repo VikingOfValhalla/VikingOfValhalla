@@ -15,7 +15,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/ubuntu.svg" alt="ubuntu" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/aws.svg" alt="aws" width="50"/></td> 
 <td></td>
-<td></td> 
+
 </tr>
 <tr>  
 <td>PROGRAMMING</td>  
@@ -23,7 +23,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/javascript.svg" alt="javascript" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/typescript.svg" alt="typescript" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/python3.svg" alt="python" width="80"/></td>
-<td></td>
+
 </tr>
 <tr>  
 <td>FRONT-END</td>  
@@ -39,7 +39,7 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/nextjs.svg" alt="nextjs" width="50"/></td>  
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/flask.svg" alt="flask" width="50"/></td> 
 <td></td>
-<td></td>
+
 </tr>
 <tr>  
 <td>DATABASE</td>  
@@ -47,6 +47,6 @@ I believe that knowledge is a never ending resource, and I fully support the ope
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/postgresql.svg" alt="postgresql" width="50"/></td>
 <td><img src="https://raw.githubusercontent.com/VikingOfValhalla/VikingOfValhalla/main/prisma.svg" alt="prisma (ORM)" width="50"/></td>  
 <td></td>
-<td></td>
+
 </tr>
 </table>
